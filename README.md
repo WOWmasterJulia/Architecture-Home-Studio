@@ -2,4 +2,4 @@
 
 ![Home Studio](./images/HOME_STUDIO.jpg)
 
-## Adaptive HTML layout with animation
+## Responsive HTML layout with CSS styles and animation for the main page of a design and architecture studio 
